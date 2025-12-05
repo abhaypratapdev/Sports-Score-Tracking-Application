@@ -1,6 +1,6 @@
 "use client"
 
-import { Navbar } from "@/components/layout/navbar"
+import  Navbar  from "@/components/layout/navbar"
 import { Footer } from "@/components/layout/footer"
 import { mockMatches } from "@/lib/mock-data"
 import Link from "next/link"
